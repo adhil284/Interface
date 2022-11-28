@@ -1,5 +1,4 @@
 ### EX NO : 09
-### DATE  : 01.06.2022
 # <p align="center">Interface</p>
 
 ## Aim:
